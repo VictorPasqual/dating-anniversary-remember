@@ -22,6 +22,10 @@ const cardsData = [
     { image: 'public/photo4.jpg', message: 'Primeira declaração de amor 😂' },
     { image: 'public/photo2.jpg', message: 'NIVER DE 3 MEEESS 💞' },
     { image: 'public/photo3.jpg', message: '92º Dia, Com a fatura do cartão nas alturas 😂' },
+    { image: 'public/photo22.jpg', message: '100º DIA COM MEU NENEEM!!' },
+    { image: 'public/photo23.jpg', message: '106º Dia, Cuidando do Totó 🐶' },
+    { image: 'public/photo24.jpg', message: '107º Dia, Dando o Beijo do jeito que amamos' },
+    { image: 'public/photo25.jpg', message: '110º Dia, Experimentando roupas com meu mozão' },
 ];
 
 cardsData.forEach(data => {
