@@ -26,6 +26,7 @@ const cardsData = [
     { image: 'public/photo23.jpg', message: '106º Dia, Cuidando do Totó 🐶' },
     { image: 'public/photo24.jpg', message: '107º Dia, Dando o Beijo do jeito que amamos' },
     { image: 'public/photo25.jpg', message: '110º Dia, Experimentando roupas com meu mozão' },
+    { image: 'public/photo26.jpg', message: 'FELIZZ 4 MESES MEU DOCINHO DE COCUU HIHI TE AMUU ❤️❤️❤️❤️' },
 ];
 
 cardsData.forEach(data => {
